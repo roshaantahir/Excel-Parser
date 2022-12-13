@@ -12,3 +12,7 @@ Installation:
             1. composer install
             2. php artisan migrate
             3. php artisan serve
+For Run:
+    1. first change .env.example to .env 
+    2. create database
+    3. add database name in DB_DATABASE
